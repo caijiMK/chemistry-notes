@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "f8d5ae8a5b956a83",
+    "type": "split",
+    "children": [
+      {
+        "id": "d85d40b051c3587f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdb78ab707f29c69",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8cdd3657e9877341",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d2485b8c373b099",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08f77751b751edb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "fb618af44a372064",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1528e34e1805173",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f371da24e473499",
+    "type": "split",
+    "children": [
+      {
+        "id": "e963068368168b59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "234522ec95d2d625",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17cbdf21265e134f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d14f8db7d35fea9d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b0ae4b8d8dbcae5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fdb78ab707f29c69",
+  "lastOpenFiles": [
+    "常见金属活动性.md",
+    "溶解性表.md",
+    "氧化物.md",
+    "分散系.md",
+    "酸.md",
+    "硫及其化合物.md",
+    "物质分类.md",
+    "化合价.md"
+  ]
+}
