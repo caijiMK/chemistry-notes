@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f16050ffe8ce003a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电解质.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296
+    "width": 296,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +191,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ceace1bcaa0dfba2",
+  "active": "f16050ffe8ce003a",
   "lastOpenFiles": [
+    "氧化还原反应.md",
     "电解质.md",
     "物质分类.md",
     "酸.md",
