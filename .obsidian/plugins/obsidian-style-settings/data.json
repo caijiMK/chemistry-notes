@@ -1,4 +1,5 @@
 {
   "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-full-palette",
-  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-frappe"
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-frappe",
+  "catppuccin-icon-styles@@ctp-icon-hide": false
 }
