@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ffd7c3b81c490d7d",
+        "id": "bfaa6691a7453a45",
         "type": "tabs",
         "children": [
           {
-            "id": "1f3dd9aee07015ab",
+            "id": "5d378d4c0093a064",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "氧化还原反应.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -64,14 +68,14 @@
         ]
       },
       {
-        "id": "928555ed51f263d4",
+        "id": "45554c206e98969a",
         "type": "tabs",
         "children": [
           {
-            "id": "f23cf036a48a902a",
+            "id": "1f3dd9aee07015ab",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "graph",
               "state": {}
             }
           }
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "氧化还原反应.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "氧化还原反应.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "氧化还原反应.md"
+              }
             }
           },
           {
@@ -140,6 +148,21 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "ff75a784f5e29161",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c38c9a0d126234c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -161,12 +184,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f3dd9aee07015ab",
+  "active": "5d378d4c0093a064",
   "lastOpenFiles": [
+    "2023-09-26.md",
+    "氧化还原反应.md",
     "氧化物.md",
     "酸.md",
     "电解质.md",
-    "氧化还原反应.md",
     "硫及其化合物.md",
     "物质分类.md",
     "溶解性表.md",
