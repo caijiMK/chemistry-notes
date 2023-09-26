@@ -1,4 +1,6 @@
 {
   "strictLineBreaks": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "useTab": true,
+  "tabSize": 2
 }
