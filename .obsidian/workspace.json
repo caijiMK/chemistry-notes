@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5d650edd02056ea0",
+        "id": "ffd7c3b81c490d7d",
         "type": "tabs",
         "children": [
           {
-            "id": "11a3ba6207eceb80",
+            "id": "1f3dd9aee07015ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "氧化物.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "氧化物.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "氧化物.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "氧化物.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,10 +161,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11a3ba6207eceb80",
+  "active": "1f3dd9aee07015ab",
   "lastOpenFiles": [
-    "酸.md",
     "氧化物.md",
+    "酸.md",
     "电解质.md",
     "氧化还原反应.md",
     "硫及其化合物.md",
