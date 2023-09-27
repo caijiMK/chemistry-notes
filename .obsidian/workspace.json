@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d378d4c0093a064",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,20 +71,6 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "d03b614b16e3ddd4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5d378d4c0093a064",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
               "state": {}
             }
           }

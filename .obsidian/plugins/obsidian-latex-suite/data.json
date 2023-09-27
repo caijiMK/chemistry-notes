@@ -14,7 +14,7 @@
     "autofractionSymbol": "\\frac",
     "autofractionBreakingChars": "+-=\t",
     "matrixShortcutsEnabled": true,
-    "taboutEnabled": true,
+    "taboutEnabled": false,
     "autoEnlargeBrackets": true,
     "wordDelimiters": "., +-\\n\t:;!?\\/{}[]()=~$"
   },
