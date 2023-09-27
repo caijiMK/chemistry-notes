@@ -11,8 +11,12 @@
             "id": "96ea213ebe5cfdde",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "氧化还原反应.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "氧化还原反应.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "氧化还原反应.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "氧化还原反应.md"
+              }
             }
           },
           {
@@ -169,13 +177,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "08f77751b751edb8",
+  "active": "96ea213ebe5cfdde",
   "lastOpenFiles": [
+    "电解质.md",
     "氧化还原反应.md",
     "2023-09-26.md",
     "氧化物.md",
     "酸.md",
-    "电解质.md",
     "硫及其化合物.md",
     "物质分类.md",
     "溶解性表.md",
