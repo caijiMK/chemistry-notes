@@ -3,5 +3,8 @@
   "cssTheme": "Catppuccin",
   "baseFontSize": 18,
   "theme": "moonstone",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "LXGW"
+  ]
 }
