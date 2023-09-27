@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bfaa6691a7453a45",
+        "id": "23814020697f93cf",
         "type": "tabs",
         "children": [
           {
-            "id": "5d378d4c0093a064",
+            "id": "96ea213ebe5cfdde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "氧化还原反应.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -66,20 +62,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "45554c206e98969a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1f3dd9aee07015ab",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "氧化还原反应.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "氧化还原反应.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "氧化还原反应.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,14 +128,7 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "ff75a784f5e29161",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "2c38c9a0d126234c",
             "type": "leaf",
@@ -166,12 +137,26 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "a7188fbc8b4be9ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d378d4c0093a064",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 296,
-    "collapsed": true
+    "width": 296
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +169,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d378d4c0093a064",
+  "active": "08f77751b751edb8",
   "lastOpenFiles": [
-    "2023-09-26.md",
     "氧化还原反应.md",
+    "2023-09-26.md",
     "氧化物.md",
     "酸.md",
     "电解质.md",
