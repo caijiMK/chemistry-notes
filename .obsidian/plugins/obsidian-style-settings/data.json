@@ -1,5 +1,11 @@
 {
   "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-blue",
   "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato",
-  "catppuccin-icon-styles@@ctp-icon-hide": false
+  "catppuccin-icon-styles@@ctp-icon-hide": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-simplicity-topaz",
+  "blue-topaz-theme@@left-ribbon-style": "default-left-ribbon-style",
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
+  "blue-topaz-theme@@hide-vault-name": false,
+  "blue-topaz-theme@@bt-status-on": false,
+  "blue-topaz-theme@@style-options-for-admonition-plugin": true
 }

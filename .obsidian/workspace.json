@@ -66,6 +66,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "d03b614b16e3ddd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d378d4c0093a064",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,27 +150,19 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "16af4e9fab83d0da",
+        "type": "tabs",
+        "children": [
           {
             "id": "2c38c9a0d126234c",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "a7188fbc8b4be9ee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5d378d4c0093a064",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
               "state": {}
             }
           }
