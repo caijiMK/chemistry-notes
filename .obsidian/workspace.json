@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "硫及其化合物.md",
+                "file": "氧化还原反应.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "5d378d4c0093a064",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,6 +66,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "2375adf74794518e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d378d4c0093a064",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "硫及其化合物.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "硫及其化合物.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "硫及其化合物.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,11 +179,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "515c96af5745fae9",
+  "active": "5d378d4c0093a064",
   "lastOpenFiles": [
-    "硫及其化合物.md",
     "氧化还原反应.md",
     "电解质.md",
+    "硫及其化合物.md",
     "2023-09-26.md",
     "氧化物.md",
     "酸.md",
