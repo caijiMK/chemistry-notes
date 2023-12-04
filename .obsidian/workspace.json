@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "氧化还原反应.md",
+                "file": "电解质.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da6b9b4563a2371c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "检验溶液中各种离子的方法.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "氧化还原反应.md",
+                "file": "检验溶液中各种离子的方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "氧化还原反应.md",
+                "file": "检验溶液中各种离子的方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "氧化还原反应.md"
+                "file": "检验溶液中各种离子的方法.md"
               }
             }
           },
@@ -196,16 +208,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7626ba70a718a926",
+  "active": "da6b9b4563a2371c",
   "lastOpenFiles": [
+    "电解质.md",
+    "检验溶液中各种离子的方法.md",
+    "氧化还原反应.md",
     "溶解性表.md",
     "酸.md",
-    "电解质.md",
     "氧化物.md",
     "硫及其化合物.md",
-    "未命名.md",
     "未命名.canvas",
-    "氧化还原反应.md",
     "2023-09-26.md",
     "物质分类.md",
     "常见金属活动性.md",
