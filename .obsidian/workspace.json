@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "溶解性表.md",
+                "file": "检验溶液中各种离子的方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "钠及其化合物.md",
+                "file": "检验溶液中各种离子的方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "钠及其化合物.md",
+                "file": "检验溶液中各种离子的方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "钠及其化合物.md"
+                "file": "检验溶液中各种离子的方法.md"
               }
             }
           },
@@ -220,7 +220,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f06b43277f7840cc",
+  "active": "08f77751b751edb8",
   "lastOpenFiles": [
     "溶解性表.md",
     "钠及其化合物.md",
