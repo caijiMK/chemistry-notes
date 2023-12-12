@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "焰色试验.md",
+                "file": "氯及其化合物.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,8 +112,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "88b0d588a6f771fd",
@@ -221,14 +220,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "08f77751b751edb8",
+  "active": "05adecd6f9b789a0",
   "lastOpenFiles": [
+    "酸.md",
     "钠及其化合物.md",
     "氯及其化合物.md",
     "氧化物.md",
     "焰色试验.md",
     "硫及其化合物.md",
-    "酸.md",
     "溶解性表.md",
     "检验溶液中各种离子的方法.md",
     "电解质.md",
